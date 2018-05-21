@@ -1,0 +1,7 @@
+{
+    "id": "sage",
+    "name": "Sage",
+    "short_name": "Sag",
+    "tier": 2,
+    "parent_id": "druid"
+}

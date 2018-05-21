@@ -1,0 +1,7 @@
+{
+    "id": "mercenary",
+    "name": "Mercenary",
+    "short_name": "Mer",
+    "tier": 2,
+    "parent_id": "thief"
+}

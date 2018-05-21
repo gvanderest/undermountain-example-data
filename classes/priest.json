@@ -1,0 +1,7 @@
+{
+    "id": "priest",
+    "name": "Priest",
+    "short_name": "Pri",
+    "tier": 2,
+    "parent_id": "cleric"
+}

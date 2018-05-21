@@ -1,0 +1,7 @@
+{
+    "id": "gladiator",
+    "name": "Gladiator",
+    "short_name": "Gla",
+    "tier": 2,
+    "parent_id": "warrior"
+}

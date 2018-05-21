@@ -1,0 +1,7 @@
+{
+    "id": "lich",
+    "name": "Lich",
+    "short_name": "Lic",
+    "tier": 2,
+    "parent_id": "vampire"
+}
